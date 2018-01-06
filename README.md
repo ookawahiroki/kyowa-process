@@ -1,3 +1,0 @@
-# kyowa-process
-TEST
-hello!
