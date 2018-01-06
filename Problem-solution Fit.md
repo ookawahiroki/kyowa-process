@@ -1,12 +1,11 @@
-# Submit
+# 概要
 
-- problem
-- valuable
-- solution
-- competitive
+② ソリューションの検証及び立案 - Problem solution Fit <br>
+課題に対してソリューションは適切か？<br>
+→ 顧客がそのソリューションを利用する明確な理由を作る<br>
+→ 課題を解決するのに、必要最小限機能を考える<br><br>
 
-# Improving
-
-- need
-- target user
-- design
+# ▶︎ 目的
+当初描いた顧客及びその課題に関する仮説を事実に変えること<br>
+仮説が事実であれば、より精度の高い顧客像を獲得する<br>
+仮説が事実でなければ、顧客及びその課題を修正する<br>
