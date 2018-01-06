@@ -1,6 +1,6 @@
 # kyowa-process
 
-① 顧客課題の検証及び立案 - Customer problem Fit
+① 顧客課題の検証及び立案<br> - Customer problem Fit
 
 ・本当に顧客の課題が存在するのか？
 - 課題が存在することを検証する
